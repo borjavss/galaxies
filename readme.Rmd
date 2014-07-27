@@ -1,0 +1,30 @@
+---
+title: Slidify example
+author: Guessing mean game
+framework: impressjs
+github: {user: borjavss, repo: guessingmean2}
+
+--- #title x:0 y:0 scale:4
+   
+   <span class="try" style="color:gray;">Are you bored? ... </span>
+   # GUESSING GAME^***
+   <span class="footnote" style="color:orange;">>^* it's free</span>
+
+--- #its x:850 y:3000 rot:45 scale:5
+
+ This is a really **cool game** <br/>
+you can find in <p style="background-color:orange;">[borjavss.shinyapps.io/slidy/](http://borjavss.shinyapps.io/slidy/) </p><br/>
+The goal is to guess the **mean velocity** of the **galaxies expansion**.
+
+--- #big x:3500 y:2100 rot:180 scale:6
+
+visualize the<br>**solution** <br> <span class="thoughts">into <p style="background-color:red;">two</p> diagrams:</span>
+
+--- #tiny x:2825 y:2325 z:-3000 rot:300 scale:1
+
+- an <b style="color:blue;">histogram</b> and a
+- <b style="color:blue;">plot diagramm</b> of the <i>Corona Borealis</i> galaxies region <p style="color:gray;">expansion velocity</p>
+
+--- #ing x:3500 y:-850 rot:270 scale:6
+get the <b class="positioning">solution</b> sliding <b class="rotating">left bar</b>!!! <br> <b class="scaling">Are you ready?!</b>
+<b class="positioning">[TRY IT NOW](http://goo.gl/iWUg1S)</b>
